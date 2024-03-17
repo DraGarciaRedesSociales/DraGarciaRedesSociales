@@ -1,3 +1,4 @@
+<img src="22.jpg">
 - 👋 Hi, I’m @DraGarciaRedesSociales
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -7,6 +8,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-DraGarciaRedesSociales/DraGarciaRedesSociales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DraGarciaRedesSociales/DraGarciaRedesSociales is a ✨ special ✨ rep<ository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
